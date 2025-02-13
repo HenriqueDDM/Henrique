@@ -13,32 +13,21 @@ I have strong expertise in **DDD, SOLID principles, and automated testing**, ens
 
 ## 🛠️ Tech Stack  
 
-### ✅ **Languages**  
 - TypeScript  
 - JavaScript  
-
-### ✅ **Backend Frameworks**  
 - Node.js  
 - NestJS  
-- Express  
-
-### ✅ **Databases**  
+- Express   
 - PostgreSQL  
 - MySQL  
 - TypeORM  
 - Prisma  
-
-### ✅ **Testing**  
 - Vitest  
 - Jest  
 - Supertest  
-
-### ✅ **DevOps & Cloud**  
 - Docker  
 - AWS (Lambda, S3, Cognito)  
 - CI/CD  
-
-### ✅ **Architecture & Principles**  
 - DDD  
 - SOLID  
 - Clean Code  
