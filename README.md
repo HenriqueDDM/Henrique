@@ -13,26 +13,9 @@ I have strong expertise in **DDD, SOLID principles, and automated testing**, ens
 
 ## 🛠️ Tech Stack  
 
-- TypeScript  
-- JavaScript  
-- Node.js  
-- NestJS  
-- Express   
-- PostgreSQL  
-- MySQL  
-- TypeORM  
-- Prisma  
-- Vitest  
-- Jest  
-- Supertest  
-- Docker  
-- AWS (Lambda, S3, Cognito)  
-- CI/CD  
-- DDD  
-- SOLID  
-- Clean Code  
-- TDD  
-
+- TypeScript  - JavaScript  - Node.js  - NestJS  - Express   - PostgreSQL  
+- MySQL  - TypeORM  - Prisma  - Vitest  - Jest  - Supertest  - Docker  - AWS (Lambda, S3, Cognito)  
+- CI/CD  - DDD  - SOLID  - Clean Code  - TDD  
 ---
 
 ## 📫 Contact  
